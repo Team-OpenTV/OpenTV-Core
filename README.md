@@ -43,7 +43,7 @@ Apps are distributed in `.AppPkg` files, which are essentially zip files contain
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Team-OpenTV/OpenTV.git
+   git clone https://github.com/Team-OpenTV/OpenTV-Core.git
    ```
 
 2. Run OpenTV on a local server or integrate with your web environment.
