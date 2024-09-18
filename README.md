@@ -29,3 +29,33 @@ func("Start") {
         })
     }
 }
+```
+
+## AppPkg Format
+
+Apps are distributed in `.AppPkg` files, which are essentially zip files containing:
+- `index.html`: The main HTML file.
+- `styles.css`: Optional CSS for app styling.
+- `app.js`: JavaScript logic for the app.
+- `metadata.xml`: XML describing the app (version, author, description).
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Team-OpenTV/OpenTV.git
+   ```
+
+2. Run OpenTV on a local server or integrate with your web environment.
+
+3. Use the App Manager to install apps from the repository.
+
+## Contributing
+
+We welcome contributions! Submit your pull requests to the main repo or reach out via GitHub issues for support.
+
+---
+
+**Contact Us**: [GitHub Issues](https://github.com/Team-OpenTV/OpenTV-Core/issues)
+
+---
